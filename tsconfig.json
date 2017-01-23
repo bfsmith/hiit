@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "es6",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outFile": "./app.jsx",
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "target": "ES6",
+    "declaration": false,
+    "noImplicitReturns": true,
+    "sourceMap": true,
+    "mapRoot": ""
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
